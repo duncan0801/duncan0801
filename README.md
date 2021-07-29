@@ -1,28 +1,34 @@
-<a href="https://www.linkedin.com/in/duncanmagill/">
-     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
-<a/>
 
 # Hi there 👋 Welcome to my GitHub! 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=duncan0801&theme=highcontrast&show_icons=true&count_private=true)
 
+## My stack
+<span>
+     <img href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FHTML5_Badge.svg%2F600px-HTML5_Badge.svg.png&f=1&nofb=1"/>HTML
+</span>
+
+<span>
+     <img href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2014%2F05%2FCSS3-Mark-Shape-Cut.png&f=1&nofb=1"/>CSS
+</span>
+
+<span>
+     <img href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.pngkit.com%2Fpng%2Fsmall%2F80-803842_javascript-logo-computerprogrammieren-scripting-sprache-javascript-logo-vector.png&f=1&nofb=1"/>JavaScript
+</span>
 ## About Me
 
-* Aspiring software Developer with an Honours in Mechanical Engineering
-* Currently going through a full stack developer bootcamp with [Boolean UK](https://boolean.co.uk/).
+* 🙍‍♂️ Junior Software Developer with a background in Mechanical Engineering
+* 🎓Currently going through a full stack developer bootcamp with [Boolean UK](https://boolean.co.uk/).
+* 🔍 Looking for roles as a Junior Developer
 * 💡 I love learning new concepts and applying them in projects 
 * 📕 Currently Reading [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
-* ✔ What I've learned:
-     - HTML
-     - CSS
-     - JavaScript
-     - React
-     - TypeScript
-* 🤔 What I'm learning: 
-     - node.Js
-     - SQL
-* 🎶 I love my music collection
 * 🤓 In my spare time I'm learning how to produce music with AbletonLive, and cycling up hills 
+
+#Reach me via:
+<a href="https://www.linkedin.com/in/duncanmagill/">
+     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
+<a/>
+
 
 
 
