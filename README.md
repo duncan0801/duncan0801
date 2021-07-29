@@ -5,29 +5,29 @@
 
 ## My stack
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span style="padding: 2px;">HTML |</span>
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span style="margin: 2px;">HTML |</span>
+</span>
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/><span style="padding: 2px;">CSS |</span>
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/><span style="margin: 2px;">CSS |</span>
+</span>
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span style="padding: 2px;">JavaScript |</span> 
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span style="margin: 2px;">JavaScript |</span> 
+</span>
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/><span style="padding: 2px;">React |</span>
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/><span style="margin: 2px;">React |</span>
+</span>
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/><span style="padding: 2px;">TypeScript |</span>
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/><span style="margin: 2px;">TypeScript |</span>
+</span>
 
-<div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/><span style="padding: 2px;">node.Js</span> 
-</div>
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/><span style="margin: 2px;">node.Js</span> 
+</span>
 
 ## About Me
 
