@@ -1,12 +1,12 @@
 
-# Hi there 👋 Welcome to my GitHub! 
+# Hi, I'm Duncan👋 Welcome to my GitHub! 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=duncan0801&theme=highcontrast&show_icons=true&count_private=true)
 
 ## My stack
 
 <span>
-     <img width="30" href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FHTML5_Badge.svg%2F600px-HTML5_Badge.svg.png&f=1&nofb=1"/> HTML
+     <img width="30" href="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/> HTML
 </span>
 
 <span>
@@ -26,7 +26,7 @@
 * 📕 Currently Reading [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
 * 🤓 In my spare time I'm learning how to produce music with AbletonLive, and cycling up hills 
 
-#Reach Me
+## Reach Me
 
 <a href="https://www.linkedin.com/in/duncanmagill/">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
