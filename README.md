@@ -14,7 +14,7 @@
 </span>
 
 <span>
-     <img width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F313-3133777_javascript-transparent-background-svg-hd-png-download.png&f=1&nofb=1"/><span> JavaScript |</span> 
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span> JavaScript |</span> 
 </span>
 
 <span>
