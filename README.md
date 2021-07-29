@@ -10,14 +10,14 @@
 * 💡 I love learning new concepts and applying them in projects 
 * 📕 Currently Reading [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
 * ✔ What I've learned:
- - HTML
- - CSS
- - JavaScript
- - React
- - TypeScript
+     - HTML
+     - CSS
+     - JavaScript
+     - React
+     - TypeScript
 * 🤔 What I'm learning: 
- - node.Js
- - SQL
+     - node.Js
+     - SQL
 * 🎶 I love my music collection
 * 🤓 In my spare time I'm learning how to produce music with AbletonLive, and cycling up hills 
 
