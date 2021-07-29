@@ -6,15 +6,27 @@
 ## My stack
 
 <span>
-     <img width="30" href="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/> HTML
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/> HTML
 </span>
 
 <span>
-     <img width="30" href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2014%2F05%2FCSS3-Mark-Shape-Cut.png&f=1&nofb=1"/>CSS
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/>CSS
 </span>
 
 <span>
-     <img width="30" href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.pngkit.com%2Fpng%2Fsmall%2F80-803842_javascript-logo-computerprogrammieren-scripting-sprache-javascript-logo-vector.png&f=1&nofb=1"/> JavaScript
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/> JavaScript
+</span>
+
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/> React
+</span>
+
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/> TypeScript
+</span>
+
+<span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/> node.Js
 </span>
 
 ## About Me
