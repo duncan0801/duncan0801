@@ -14,7 +14,7 @@
 </span>
 
 <span>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span style="margin: 2px;">JavaScript |</span> 
+     <img style="margin: 5px;" width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span style="margin: 2px;">JavaScript |</span> 
 </span>
 
 <span>
