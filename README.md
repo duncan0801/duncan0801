@@ -1,4 +1,6 @@
-<img src="https://www.mtwhisper.com/Images/Page/Summer.jpg"/>
+<a href="https://www.linkedin.com/in/duncanmagill/">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
+<a/>
 
 # Hi there 👋 Welcome to my GitHub! 
 
@@ -6,6 +8,7 @@
 
 ## About Me
 
+* Aspiring software Developer with an Honours in Mechanical Engineering
 * Currently going through a full stack developer bootcamp with [Boolean UK](https://boolean.co.uk/).
 * 💡 I love learning new concepts and applying them in projects 
 * 📕 Currently Reading [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
