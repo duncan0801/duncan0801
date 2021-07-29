@@ -6,7 +6,7 @@
 ## My stack
 
 <span>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span style="{margin: 2px};">HTML |</span>
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span style="{margin: 2px; font-size: 20px;}">HTML |</span>
 </span>
 
 <span>
