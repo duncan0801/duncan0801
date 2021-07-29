@@ -6,27 +6,27 @@
 ## My stack
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/> HTML
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span>HTML</span>
 </div>
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/>CSS
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/><span>CSS</span>
 </div>
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/> JavaScript
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/><span>JavaScript</span> 
 </div>
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/> React
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/><span>React</span>
 </div>
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/> TypeScript
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/><span>TypeScript</span>
 </div>
 
 <div>
-     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/> node.Js
+     <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/><span>node.Js</span> 
 </div>
 
 ## About Me
