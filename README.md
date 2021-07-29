@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/duncanmagill/">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
+     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
 <a/>
 
 # Hi there 👋 Welcome to my GitHub! 
