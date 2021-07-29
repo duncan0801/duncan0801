@@ -5,29 +5,29 @@
 
 ## My stack
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/> HTML
-</span>
+</div>
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png"/>CSS
-</span>
+</div>
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/> JavaScript
-</span>
+</div>
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"/> React
-</span>
+</div>
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png"/> TypeScript
-</span>
+</div>
 
-<span>
+<div>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png"/> node.Js
-</span>
+</div>
 
 ## About Me
 
