@@ -32,7 +32,7 @@
 ## About Me
 
 * 🙍‍♂️ Junior Software Developer with a background in Mechanical Engineering
-* 🎓Recent graduate from a full stack developer bootcamp with [Boolean UK](https://boolean.co.uk/).
+* 🎓Recent graduate from a full stack developer bootcamp with [Boolean UK](https://boolean.co.uk/)
 * 🔍 Looking for roles as a Junior Developer
 * 💡 I love learning new concepts and applying them in projects 
 * 📕 Currently Reading [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
