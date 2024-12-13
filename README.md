@@ -1,8 +1,6 @@
 
 # Hi, I'm Duncan👋 Welcome to my GitHub! 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=duncan0801&theme=highcontrast&show_icons=true&count_private=true)
-
 ## My stack
 
 <span>
